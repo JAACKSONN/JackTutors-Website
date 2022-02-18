@@ -1,6 +1,4 @@
 # JackTutors-Website
-
-# Codefy-Website
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
